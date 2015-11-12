@@ -1,0 +1,32 @@
+header {
+  background-color: #1E88E5;
+  position: fixed;
+  text-align: center;
+}
+nav {
+  background-color: #2196F3;
+  position: fixed;
+  display: block;
+  text-align: center;
+}
+.container {
+  margin: 0 auto;
+}
+#first {
+  background-color: #42A5F5;
+}
+#tete {
+  background-color: #64B5F6;
+}
+#structure {
+  background-color: #90CAF9;
+}
+#liste{
+  background-color: #BBDEFB;
+}
+#sectionne {
+  background-color: #E3F2FD;
+}
+code {
+  background-color: white;
+}
