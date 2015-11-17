@@ -1,13 +1,21 @@
+body{
+  background-color: #E3F2FD;
+}
 header {
   background-color: #1E88E5;
-  position: fixed;
+
   text-align: center;
 }
 nav {
-  background-color: #2196F3;
-  position: fixed;
-  display: block;
+  background-color: #1E88E5;
+position: fixed;
+top: 0;
+display: block;
+
   text-align: center;
+}
+section{
+
 }
 .container {
   margin: 0 auto;
