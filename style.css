@@ -9,7 +9,6 @@ nav {
   background-color: #1E88E5;
   display: block;
   text-align: center;
-  font-size: 2em;
 }
 section {}
 .container {
@@ -59,5 +58,8 @@ footer {
   }
   body{
     font-size: 1.5em;
+  }
+  footer{
+    font-size : 1.2em;
   }
 }
