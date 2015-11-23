@@ -14,6 +14,9 @@ section {}
 .container {
   margin: 0 auto;
 }
+p{
+  font-size: 1.2em;
+}
 #first {
   background-color: #42A5F5;
 }
@@ -36,7 +39,6 @@ code {
 i {
   border: 0 solid lightgray;
   border-radius: 2px;
-  font-size: 3em;
   color: black;
   background-color: #E0E0E0;
   padding: 1% 2%;
