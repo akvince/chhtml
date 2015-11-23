@@ -7,7 +7,6 @@ header {
 }
 nav {
   background-color: #1E88E5;
-
   display: block;
   text-align: center;
 }
@@ -33,4 +32,15 @@ section {}
 code {
   background-color: white;
   border-radius: 3px;
+}
+i {
+  border: 0 solid lightgray;
+  border-radius: 2px;
+  font-size: 3em;
+  color: black;
+  background-color: #E0E0E0;
+  padding: 1% 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+  float: right;
 }
