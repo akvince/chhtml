@@ -49,3 +49,11 @@ i {
 footer {
   text-align: right;
 }
+
+/**========================mobile============================**/
+@media screen and (max-width: 800px) {
+  .bloc {
+    display:block;
+    clear:both;
+  }
+}
