@@ -17,6 +17,9 @@ section {}
 p{
   font-size: 1.2em;
 }
+.button{
+  font-size: 1.3em;
+}
 #first {
   background-color: #42A5F5;
 }
