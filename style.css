@@ -59,6 +59,9 @@ footer {
     display:block;
     clear:both;
   }
+  .button{
+    font-size: 1.5em;
+  }
   body{
     font-size: 1.5em;
   }
