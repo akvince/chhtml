@@ -56,4 +56,7 @@ footer {
     display:block;
     clear:both;
   }
+  body{
+    font-size: 1.5em;
+  }
 }
